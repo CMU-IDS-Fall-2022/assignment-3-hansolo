@@ -39,5 +39,3 @@ Scatterplots are also great at conveying a lot of information with the help of a
 Another idea was to do some regression analysis on the mean age to see how the trend looks over the year. As a matter of fact, it came out to be a bit surprising that the winners are getting older over the years when they receive prizes. The usage of interactive bar charts also added to the interactivity of the application.
 
 The piazza post around grouping up for the project did not materialize. Hence, I finished the project on my own. I spent around 25+ hours on this app. The majority of the time was spent on the learning and researching altair and streamlit. I started early given I had super demanding obligations such as Cloud Computing. Starting early helped me be confident and gave me enough room to play around with things like bar chart-based slider.
-
-![image](https://user-images.githubusercontent.com/112719579/195451380-a5ebc507-d177-48f9-85ec-b51bcc175dc7.png)
