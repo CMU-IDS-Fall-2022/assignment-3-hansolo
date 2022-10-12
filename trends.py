@@ -7,7 +7,6 @@ Created on Sat Oct  1 12:27:29 2022
 """
 # import relevant packages
 import streamlit as st
-import plotly.express as px
 import pandas as pd
 import plotly.graph_objects as go
 import altair as alt
