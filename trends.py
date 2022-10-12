@@ -9,8 +9,6 @@ Created on Sat Oct  1 12:27:29 2022
 import streamlit as st
 import pandas as pd
 import altair as alt
-import seaborn as sns
-import matplotlib.pyplot as plt
 from PIL import Image
 
 #Create two column layout to display title and image
